@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = gh api user/emails | jq -r '.[].email'
+	email = arnaultd@hotmail.fr
 	name = Arnault Dasseux
